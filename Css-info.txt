@@ -1,0 +1,3 @@
+Container must be about 800 px;
+colors - #090C02(black)/ #E6EED6(white);
+font - Josefin Sans;
