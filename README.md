@@ -1,4 +1,3 @@
 # VCP
 Tutorial-1 Setup version control system
-Artem made a commit!!!
-Dima made a commit!!!
+Our web application will help you to understand how good do you know the Netherlands
