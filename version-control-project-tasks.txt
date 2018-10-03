@@ -1,0 +1,23 @@
+Project Goals of VCP:
+
+	[Within the presence of Mr. van Oenen and all the other groups, competing in the Hackaton, our group, consisting of Artem, Dima, Mukhitdin and Svetlin, is also participating in this so-called competion.]
+	
+	I. Before creation adjustments of the website:
+		- including not only HTML & CSS, but PHP also
+		- no use of external frameworks to keep maximum simpliity of the website and its purpose
+		- 
+	II. An applicable dea and purpose of the website:
+		- basic quiz about the surrounding environment of NHL Stenden University of A.S.
+		- questions that can be easily answered by mostly everyone can take part in the quiz game without having to acquire high cultural awarness
+	III. Resources for the creation for the creation of the website
+		- basic use of HTML | CSS | PHP
+		- forming structures and use of data
+		- proper identatin and readable code
+	IV. Version Control Use & Training
+		- basic understanding of how @GitHub works alongside with @GitKraken and @SourceTree
+		- working with repositories | PUSH | PULL | EDIT 
+		- know how to handle Merge Conflicts and manage to do it in the least painful for the developer team way
+	V. Implementtion & Finalization
+		- completion of the form of the quiz, its stylesheet and the additional PHP code for it
+		- test for items that can be broken and if there are any, work on possible solutions to fix them
+		
